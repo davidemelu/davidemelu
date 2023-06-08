@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Emelu</h1>
-<h3 align="center">Electrical Engineering student that enjoys coding and developing</h3>
+<h3 align="center">I am an Electrical Engineering student and i enjoy programming and developing</h3>
 <img align="right" alt="coding" width="480" src="https://media1.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=6c09b95278815b7487846cceb5e9a91140241241eb4c2d9c&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidemelu&label=Profile%20views&color=0e75b6&style=flat" alt="davidemelu" /> </p>
