@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/davidemelu" target="blank"><img src="https://img.shields.io/twitter/follow/davidemelu?logo=twitter&style=for-the-badge" alt="davidemelu" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C, Python, Java**
+- 💬 Ask me about **C, C++, MATLAB**
 
 - 📫 How to reach me **davidemelu4@gmail.com**
 
